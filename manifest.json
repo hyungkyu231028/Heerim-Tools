@@ -6,7 +6,7 @@
       "description": "레빗 일람표와 엑셀 데이터를 동기화합니다.",
       "version": "1.0.1",
       "category": "REVIT",
-      "downloadUrl": "https://github.com/hyungkyu231028/Heerim-Tools/raw/main/ExcelManager_Setup.zip"
+      "downloadUrl": "https://github.com/hyungkyu231028/Heerim-Tools/releases/download/v1.01/Heerim_Excel_Manager_Setup.zip"
     },
     {
       "id": "line-converter",
@@ -14,14 +14,14 @@
       "description": "선 유형을 자유롭게 변환합니다.",
       "version": "1.0.2",
       "category": "REVIT",
-      "downloadUrl": "https://github.com/hyungkyu231028/Heerim-Tools/raw/main/LineConverter_Setup.zip"
+      "downloadUrl": ""
     }
   ],
   "notices": [
     {
       "date": "2026-04-17",
-      "title": "희림 애드인 매니저 Ver. 1.32 업데이트 안내",
-      "content": "공지사항 실시간 동기화 시스템이 적용되었습니다. 이제 깃허브 수정 사항이 즉시 매니저에 반영됩니다."
+      "title": "희림 애드인 매니저 Ver. 1.36 업데이트 안내",
+      "content": "설치 실패 시 원인을 알려주는 기능과, 탭 전환 시 속도가 비약적으로 향상된 패치가 적용되었습니다."
     }
   ]
 }
