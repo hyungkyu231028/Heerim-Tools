@@ -32,6 +32,15 @@
       "category": "AUTOCAD",
       "downloadUrl": "https://github.com/hyungkyu231028/Heerim-Tools/releases/download/HrCAD-v1.10/HrCAD_Setup_v18.1.zip"
     },
+    {
+      "id": "DivideSheet",
+      "name": "시트 나누기!",
+      "description": "시트를 Detail line으로 나누어 줍니다.",
+      "version": "1.0.0",
+      "category": "REVIT",
+      "downloadUrl": "https://github.com/hyungkyu231028/Heerim-Tools/releases/download/DivideSheet-v.1.0.0/Heerim_DivideSheet_Setup_v1.0.zip
+"
+    },
      {
       "id": "Align Title",
       "name": "타이틀 정렬",
@@ -49,5 +58,4 @@
     }
   ]
 }
-
 
