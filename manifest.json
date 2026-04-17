@@ -1,21 +1,27 @@
 {
-  "lastUpdated": "2026-04-17",
   "addins": [
     {
-      "id": "ExcelManager",
+      "id": "excel-manager",
       "name": "엑셀 매니저",
       "description": "레빗 일람표와 엑셀 데이터를 동기화합니다.",
       "version": "1.0.1",
       "category": "REVIT",
-      "downloadUrl": "https://github.com/hyungkyu231028/Heerim-Tools/releases/download/v1.01/Heerim_Excel_Manager_Setup.zip"
+      "downloadUrl": "https://github.com/hyungkyu231028/Heerim-Tools/raw/main/ExcelManager_Setup.zip"
     },
     {
-      "id": "LineConverter",
+      "id": "line-converter",
       "name": "선 변환기",
       "description": "선 유형을 자유롭게 변환합니다.",
       "version": "1.0.2",
       "category": "REVIT",
-      "downloadUrl": "https://github.com/hyungkyu231028/Heerim-Tools/releases/download/v1.0.2/LineConverter.zip"
+      "downloadUrl": "https://github.com/hyungkyu231028/Heerim-Tools/raw/main/LineConverter_Setup.zip"
+    }
+  ],
+  "notices": [
+    {
+      "date": "2024-04-17",
+      "title": "히림 애드인 매니저 Ver. 1.30 업데이트",
+      "content": "공지사항 기능이 추가되었습니다! 이제 본 탭을 통해 새로운 소식을 확인하실 수 있습니다."
     }
   ]
 }
