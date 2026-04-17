@@ -12,7 +12,7 @@
       "id": "line-converter",
       "name": "선 변환기",
       "description": "선 유형을 자유롭게 변환합니다.",
-      "version": "1.0.2",
+      "version": "1.0.1",
       "category": "REVIT",
       "downloadUrl": ""
     },
