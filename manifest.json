@@ -5,9 +5,9 @@
       "id": "ExcelManager",
       "name": "엑셀 매니저",
       "description": "레빗 일람표와 엑셀 데이터를 동기화합니다.",
-      "version": "1.2.5",
+      "version": "1.0.1",
       "category": "REVIT",
-      "downloadUrl": "https://github.com/hyungkyu231028/Heerim-Tools/releases/download/v1.2.5/ExcelManager.zip"
+      "downloadUrl": "https://github.com/hyungkyu231028/Heerim-Tools/releases/download/v1.01/Heerim_Excel_Manager_Setup.zip"
     },
     {
       "id": "LineConverter",
