@@ -17,12 +17,12 @@
       "downloadUrl": ""
     },
     {
-      "id": "여기에_영어이름",
-      "name": "여기에 한글 툴 이름",
-      "description": "툴에 대한 설명",
-      "version": "1.0.0 (버전)",
-      "category": "REVIT (카테고리)",
-      "downloadUrl": "여기에 깃허브 Releases에 올린 설치파일 링크"
+      "id": "my_new_tool",
+      "name": "새로운 멋진 툴",
+      "description": "툴에 대한 설명입니다.",
+      "version": "1.0.0",
+      "category": "REVIT",
+      "downloadUrl": "https://github.com/hyungkyu231028/...zip"
     }
   ],
   "notices": [
