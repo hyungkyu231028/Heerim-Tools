@@ -20,7 +20,7 @@
       "id": "my_new_tool",
       "name": "새로운 멋진 툴",
       "description": "툴에 대한 설명입니다.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "REVIT",
       "downloadUrl": "https://github.com/hyungkyu231028/...zip"
     }
