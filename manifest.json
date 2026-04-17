@@ -23,6 +23,14 @@
       "version": "1.0.1",
       "category": "REVIT",
       "downloadUrl": "https://github.com/hyungkyu231028/...zip"
+    },
+    {
+      "id": "HrCAD",
+      "name": "HR캐드 툴 모음",
+      "description": "작업자의 편의를 도와주는 툴 2025버전만 가능.",
+      "version": "1.0.1",
+      "category": "AUTOCAD",
+      "downloadUrl": "여기에 캐드용 설치파일 링크"
     }
   ],
   "notices": [
