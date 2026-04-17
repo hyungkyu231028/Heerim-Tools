@@ -26,8 +26,8 @@
     },
     {
       "id": "HrCAD",
-      "name": "HR캐드 툴 모음",
-      "description": "작업자의 편의를 도와주는 툴 2025버전만 가능.",
+      "name": "HrCAD Tool 모음",
+      "description": "작업자의 편의를 도와주는 Tool 2025버전만 가능.",
       "version": "1.0.1",
       "category": "AUTOCAD",
       "downloadUrl": "https://github.com/hyungkyu231028/Heerim-Tools/releases/download/HrCAD-v1.10/HrCAD_Setup_v18.1.zip"
@@ -44,7 +44,7 @@
   "notices": [
     {
       "date": "2026-04-17",
-      "title": "희림 애드인 매니저 Ver. 1.38 업데이트 안내",
+      "title": "희림 애드인 매니저 Ver. 1.44 업데이트 안내",
       "content": "설치 실패 시 원인을 알려주는 기능과, 탭 전환 시 속도가 비약적으로 향상된 패치가 적용되었습니다."
     }
   ]
