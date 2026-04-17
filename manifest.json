@@ -38,8 +38,7 @@
       "description": "시트를 Detail line으로 나누어 줍니다.",
       "version": "1.0.0",
       "category": "REVIT",
-      "downloadUrl": "https://github.com/hyungkyu231028/Heerim-Tools/releases/download/DivideSheet-v.1.0.0/Heerim_DivideSheet_Setup_v1.0.zip
-"
+      "downloadUrl": "https://github.com/hyungkyu231028/Heerim-Tools/releases/download/DivideSheet-v.1.0.0/Heerim_DivideSheet_Setup_v1.0.zip"
     },
      {
       "id": "Align Title",
@@ -48,6 +47,14 @@
       "version": "1.4.0",
       "category": "REVIT",
       "downloadUrl": "https://github.com/hyungkyu231028/Heerim-Tools/releases/download/AlignTitle-v1.4.0/Heerim_AlignTitle_Setup_v1.4.zip"
+    },
+    {
+      "id": "Smart Assist",
+      "name": "스마트 툴!",
+      "description": "다양한 것들을 즐겨찾아!",
+      "version": "1.0.0",
+      "category": "REVIT",
+      "downloadUrl": "https://github.com/hyungkyu231028/Heerim-Tools/releases/download/Smart-v1.0.0/Heerim_SmartAssist_Setup_v1.0.zip"
     }
   ],
   "notices": [
